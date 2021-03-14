@@ -349,8 +349,8 @@ var waifuJson = {
             "text": "今天是<span style=\"color:#0099cc;\">妇女节</span>！“妇女能顶半边天。”——毛泽东"
         },
         {
-            "date": "03/13",
-            "text": "今天是<span style=\"color:#0099cc;\">植树节</span>，要保护环境呀"
+            "date": "03/15",
+            "text": "今天是<span style=\"color:#0099cc;\">植树节</span>，要保护环境呀{year-1949}"
         },
         {
             "date": "04/01",
@@ -385,7 +385,7 @@ var waifuJson = {
             "text": "这几天是<span style=\"color:#0099cc;\">圣诞节</span>有人来陪陪我吗？"
         },
         {
-            "date": "03/12",
+            "date": "03/14",
             "text": "<span style=\"color:#0099cc;\">普通的一天</span>，回想{year-1949}年前，沧桑巨变啊"
         }
     ]
